@@ -1,0 +1,25 @@
+body {
+    font-family: clockicons, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+
+.counter-container {
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+background-color: black;
+}
+
+/* .counter {
+    /* font-size: 20pc; */
+    /* margin-bottom: 20px; 
+}*/
+
+button {
+    margin: 12px;
+    /* padding: 16px; */
+    font-size: 17px;
+}
